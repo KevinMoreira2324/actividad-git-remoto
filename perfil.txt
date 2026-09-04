@@ -3,3 +3,4 @@ Carrera: Ingenieria Sistemas e Ingenieria informatica
 Semestre: II/2026
 Materia: Actualizacion Tecnologica Paralelo A
 Mencion: Desarrollo de Software
+Ciudad: Oruro
