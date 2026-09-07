@@ -1,5 +1,13 @@
+---tecnologías que conozco:
 C++
 Java
 Python
 HTML
 CSS
+---tecnologías que desea aprender:
+TypeScript
+JavaScript
+SQL
+C#
+Python
+PHP
