@@ -7,3 +7,5 @@ Semestre: QUINTO
 Correo: kevinmoreira2324@gmail.com
 Telefono: 75403709
 Ciudad: Oruro
+Pais: Bolivia
+Genero : Mascullino
